@@ -4,8 +4,9 @@ jira_git_url = 'git@github.com:/xianfengyuan'
 
 jira_cookbooks = "
 apt
-ark
 apache2
+ark
+aws
 build-essential
 chef-sugar
 database
@@ -20,6 +21,7 @@ openssl
 postgresql
 rbac
 smf
+xfs
 yum
 yum-epel
 yum-mysql-community
