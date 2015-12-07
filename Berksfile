@@ -15,7 +15,7 @@ jira-menlo
 mariadb
 mysql
 mysql2_chef_gem
-mysql-connector
+mysql_connector
 openssl
 postgresql
 rbac
