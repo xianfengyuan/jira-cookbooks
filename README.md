@@ -1,1 +1,2 @@
-use dev or prod branch
+Berks file for deploying JIRA server
+
