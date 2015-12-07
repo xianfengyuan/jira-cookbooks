@@ -12,8 +12,17 @@ database
 java
 jira
 jira-mspot
+mariadb
+mysql
+mysql2_chef_gem
+mysql-connector
 openssl
 postgresql
+rbac
+smf
+yum
+yum-epel
+yum-mysql-community
 ".split
 
 # Include Opsworks Cookbooks
