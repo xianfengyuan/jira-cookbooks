@@ -8,6 +8,7 @@ apache2
 ark
 aws
 build-essential
+chef_handler
 chef-sugar
 database
 java
@@ -21,6 +22,7 @@ openssl
 postgresql
 rbac
 smf
+windows
 xfs
 yum
 yum-epel
