@@ -11,7 +11,7 @@ chef-sugar
 database
 java
 jira
-jira-mspot
+jira-menlo
 mariadb
 mysql
 mysql2_chef_gem
